@@ -20,5 +20,3 @@ I'm a software engineer from Mexico with over 5+ years of experience in web deve
 ![Gina's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorginaFraire&show_icons=true&theme=radical)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=GeorginaFraire)](https://github.com/anuraghazra/github-readme-stats)
-
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=GeorginaFraire&show_icons=true&theme=transparent)
